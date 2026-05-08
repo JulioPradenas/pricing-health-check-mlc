@@ -1,0 +1,28 @@
+{
+  "name": "pricing-health-check-mlc",
+  "version": "1.0.0",
+  "description": "Auditoría de pricing competitivo y análisis del catálogo unificado de MercadoLibre Chile (MLC), con foco en sellers PYME de electrónica.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulioPradenas/pricing-health-check-mlc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JulioPradenas/pricing-health-check-mlc/issues"
+  },
+  "homepage": "https://github.com/JulioPradenas/pricing-health-check-mlc#readme",
+  "dependencies": {
+    "pptxgenjs": "^4.0.1"
+  }
+}
